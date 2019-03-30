@@ -1,4 +1,5 @@
 # App artifacts
+.elixir_ls
 /_build
 /db
 /deps
