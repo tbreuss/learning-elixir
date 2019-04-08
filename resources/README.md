@@ -8,7 +8,7 @@
 - <https://elixirforum.com> - Elixir Forum for Elixir programming language enthusiasts
 - <http://elixirkoans.io> - Elixir Koans
 
-## Erlang
+## Erlang
 
 - <http://erlang.org/doc/> - Erlang/OTP
 - <http://erlang.org/doc/reference_manual/users_guide.html> - Erlang Reference Manual
